@@ -69,7 +69,34 @@
  <div class="video-wrapper">
 <iframe src="https://www.youtube.com/embed/uo2GfE0Tjwg?rel=0" title="YouTube video player" frameborder="0" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></div><br><br>
-<div width="30%" style="background-color:#A861FF;color: white;" height="40"><center>คลิป/บทความแนะนำ</center></div>
+<div class="w3-container w3-padding">
+      <h4>Tags</h4>
+    </div>
+    <div class="w3-container w3-white">
+    <p><span class="w3-tag w3-black w3-margin-bottom">Travel</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">New York</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">London</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">IKEA</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">NORWAY</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">DIY</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Baby</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Family</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">News</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Clothing</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Shopping</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Sports</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Games</span>
+    </p>
+    </div>
+  </div>
+  
+<!-- END Introduction Menu -->
+</div>
+
+<!-- END GRID -->
+</div><br>
+
+<!-- END w3-content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-dark-grey w3-padding-32 w3-margin-top">
+  <button class="w3-button w3-black w3-disabled w3-padding-large w3-margin-bottom">Previous</button>
+  <button class="w3-button w3-black w3-padding-large w3-margin-bottom">Next »</button>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
