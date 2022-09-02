@@ -11,6 +11,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"> 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 </head>
 <style>
 .video-wrapper {
@@ -28,7 +30,7 @@
 	width: 100%;
 	height: 100%;
 }
-
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
 </style>
 <body style="font-family: 'Prompt', sans-serif;">
